@@ -1,4 +1,4 @@
 # apnacollege-demo
 first repo
 <br>
-author - kartik
+author - kartik jha muj jaipur  
